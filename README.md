@@ -45,6 +45,7 @@ La tabla `visits` (registros del servidor con datos sobre las visitas al sitio w
 - `Start Ts`: fecha y hora de inicio de la sesión;
 - `End Ts`: fecha y hora de término de la sesión;
 - `Source Id`: identificador de la fuente de anuncios de la que proviene el usuario.
+
 Todas las fechas de esta tabla están en formato AAAA-MM-DD.
 
 La tabla `orders` (datos sobre pedidos):
